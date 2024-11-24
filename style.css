@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.custom-header {
+    border-bottom: 1px solid white;
+}
+
+.nav-link {
+    border: 1px solid white;
+    margin: 0 8px;
+    padding: 5px 10px;
+    color: white !important;
+    text-decoration: none;
+    border-radius: 2px;
+}
+.nav-link:hover {
+    background-color: whitesmoke;
+    color: black !important; 
+}
+h1{
+    font-size: 50px;
+    text-shadow: black;
+}
+
+.btn1 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    width: 350px;
+    font-size: 22px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.btn2 {
+    color: white;
+    background-color: rgb(59, 158, 208);
+    text-align: center;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    width: 350px;
+    font-size: 22px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.btn3 {
+    color: white;
+    background-color: rgb(126, 8, 8);
+    text-align: center;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    width: 350px;
+    font-size: 22px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.btn4 {
+    color: grey;
+    background-color: white;
+    border-color: rgb(228, 219, 219);
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    padding-bottom: 10px;
+    margin-left: 70%;
+    cursor: pointer;
+    width: 120px;
+}
+.btn5{
+    color: grey;
+    background-color: white;
+    border-color: rgb(228, 219, 219);
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 2%;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+.col-md-12{
+    margin-left: 50%;
+}
+.smbtn {
+    border: 1px solid rgb(203, 203, 203);
+    border-radius: 8px;
+    color: rgb(91, 91, 91);
+    margin-left: 80px;
+}
